@@ -1,1 +1,2 @@
-Now content for test2 is added
+New content for test2 is added successfully
+
